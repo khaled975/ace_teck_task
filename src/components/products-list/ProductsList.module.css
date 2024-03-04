@@ -1,0 +1,7 @@
+.products_list {
+  margin: 50px 0;
+  .react-multi-carousel-item {
+    display: flex;
+    width: 200px;
+  }
+}

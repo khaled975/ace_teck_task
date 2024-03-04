@@ -1,0 +1,23 @@
+.li {
+  display: flex;
+  gap: 20px;
+  border-bottom: 1.5px solid rgba(0, 0, 0, 0.1);
+  padding: 12px 0;
+  .img_box {
+    width: 125px;
+    height: 125px;
+
+    img {
+      border-radius: 8px;
+    }
+  }
+  .details {
+    width: 300px;
+  }
+  .action {
+    margin-left: auto;
+    span {
+      cursor: pointer;
+    }
+  }
+}

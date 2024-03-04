@@ -1,0 +1,12 @@
+.brands_sec {
+  background-color: #000;
+  height: 80px;
+  display: flex;
+
+  .box {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
